@@ -4,7 +4,7 @@ wieloinercyjnym G z zadawanym skokowym sygnałem referencyjnym r i skokowym
 sygnałem zakłócenia na wyjściu z. W zadaniu należało wykorzystać poniższą 
 strukturę MFC:
 
-
+![alt text](https://github.com/bradzio225/Model-Following-Control/blob/main/doc/structure.jpg)
 W projekcie przy pomocy dekonwolucji należało zidentyfikować kształt 
 charakterystyki impulsowej g(t) oraz skokowej h(t). Następnie na podstawie 
 wyznaczonej charakterystyki skokowej przy pomocy dwupunktowej metody 
